@@ -12,3 +12,7 @@ https://github.com/hellominecraft913-dev/Gwent-for-SUMI/blob/bfcae7fa7ed2a880f10
 Simply double click the file with the latest version of the LÖVE game engine installed:
 
 https://github.com/hellominecraft913-dev/Gwent-for-SUMI/blob/bfcae7fa7ed2a880f10e3f453cb214b285425f55/main.love
+
+# Warnings
+
+For some reason couldnt figure out how to use up and down in love feel free to try yourself
